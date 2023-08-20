@@ -10,4 +10,3 @@ One of the highlights of this project was my exploration of restaurant-customer 
 
 By synthesizing complex data through SQL queries, I effectively communicated findings that could be used for strategic planning and enhancing Swiggy's customer experience. This project showcases my analytical mindset, ability to work with real-world datasets, and dedication to translating data into actionable insights.
 
-I am enthusiastic about featuring this case study on my resume, as it underscores my commitment to utilizing data analysis to drive informed decisions. The Swiggy Case Study highlights my skill in extracting insights from raw data, and I am eager to apply these capabilities to contribute meaningfully to future analytical challenges.
