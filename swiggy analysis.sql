@@ -1,4 +1,4 @@
--- swiggy case study
+--  A Case study
 
 -- find customers who never ordered
 select users.user_id,name,email from users
